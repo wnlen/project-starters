@@ -1,4 +1,3 @@
-```
 # Project Starters
 
 <p align="center">
@@ -80,7 +79,6 @@ UniApp 项目脚手架模板。
 ---
 
 ## 仓库结构
-```
 
 starters/
  java-api-starter/
@@ -90,7 +88,6 @@ starters/
 
 docs/
 
-```
 ---
 
 ## 快速开始
