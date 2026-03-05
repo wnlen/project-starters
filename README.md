@@ -1,4 +1,3 @@
-```
 # Project Starters
 
 <p align="center">
@@ -80,7 +79,6 @@ Includes:
 ---
 
 ## Repository Structure
-```
 
 starters/
  java-api-starter/
@@ -90,7 +88,6 @@ starters/
 
 docs/
 
-```
 ---
 
 ## Quick Start
