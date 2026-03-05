@@ -1,10 +1,9 @@
-# Awesome Engineering Templates
+```
+# Project Starters
 
 <p align="center">
 English | <a href="README.zh-CN.md">简体中文</a>
 </p>
-
-# Project Starters
 
 A collection of **ready-to-run project starters** for modern backend and frontend applications.
 
@@ -81,38 +80,36 @@ Includes:
 ---
 
 ## Repository Structure
-
+```
 
 starters/
-java-api-starter/
-java-multi-module-starter/
-vue-admin-starter/
-uniapp-starter/
+ java-api-starter/
+ java-multi-module-starter/
+ vue-admin-starter/
+ uniapp-starter/
 
 docs/
 
-
+```
 ---
 
 ## Quick Start
 
 Example: start a new Java backend project.
 
-
+```bash
 git clone https://github.com/yourname/project-starters
 
 cd starters/java-api-starter
 
-rename project
-
+# rename the project folder
 mv java-api-starter my-api
 
-start development
-
+# start development
 mvn spring-boot:run
+```
 
-
----
+------
 
 ## Deployment
 
@@ -125,7 +122,7 @@ Each starter includes basic deployment support:
 
 For detailed deployment instructions, see the documentation in each starter.
 
----
+------
 
 ## Related Repository
 
@@ -133,7 +130,7 @@ Reusable templates and infrastructure patterns live here:
 
 👉 https://github.com/yourname/awesome-engineering-templates
 
----
+------
 
 ## Philosophy
 
@@ -145,7 +142,7 @@ These starters follow three principles:
 
 The goal is to reduce setup time so you can focus on building actual features.
 
----
+------
 
 ## License
 
